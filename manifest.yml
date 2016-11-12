@@ -6,4 +6,4 @@ applications:
   name: chatbot-web
   host: chatbot-web
   disk_quota: 1024M
-  env: CONVERSATION_WORKSPACE_ID:2e7293cb-84e1-40d1-a005-ea5cdef31907
+  CONVERSATION_WORKSPACE_ID: 2e7293cb-84e1-40d1-a005-ea5cdef31907
